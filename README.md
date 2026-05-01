@@ -2,8 +2,8 @@
 
 ## Language / 言語
 
-- [日本語](README_ja.md)
-- [English](README_en.md)
+- [English](#english)
+- [日本語](#日本語)
 
 ---
 

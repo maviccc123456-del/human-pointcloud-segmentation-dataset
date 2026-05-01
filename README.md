@@ -64,10 +64,10 @@ human-pointcloud-segmentation-dataset/
 ├── data/
 │   └── .gitkeep
 ├── process_data/
-│   ├── make_dfaust_part_dataset_public
-│   ├── part_indices
-│   ├── test_data_set
-│   └── test_part_indices
+│   ├── make_dfaust_part_dataset_public.py
+│   ├── part_indices.py
+│   ├── test_data_set.py
+│   └── test_part_indices.py
 └── figures/
     ├── 1.png
     ├── 2.png
